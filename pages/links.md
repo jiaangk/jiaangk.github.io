@@ -3,6 +3,10 @@ layout: mypost
 title: 友情链接
 ---
 
+[Vexoben](https://sheauhawjang.github.io/)
+
+[Sheauhaw Jang](https://sheauhawjang.github.io/)
+
 欢迎各位大佬和我互开友链啊ο(=•ω＜=)ρ⌒☆
 
 ```
