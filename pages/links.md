@@ -3,7 +3,7 @@ layout: mypost
 title: 友情链接
 ---
 
-[Vexoben](https://sheauhawjang.github.io/)
+[Vexoben](https://vexoben.github.io/)
 
 [Sheauhaw Jang](https://sheauhawjang.github.io/)
 
