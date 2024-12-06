@@ -13,13 +13,13 @@ After 2 years preparatory phase, I started my undergraduate career.
 I joined the AISEC group in Nov. 2023 as a research intern student, advised by [Prof. Zhengyu Zhao](https://zhengyuzhao.github.io/).
 I am also an intern student remotely advised by [Prof. Xiao Zhang](https://xiao-zhang.net/) from [CISPA](https://cispa.de/en).
 
-**I am looking for Ph.D. positions in Security and Machine Learning starting in 25Fall!**
+**I am looking for Ph.D. positions in Machine Learning and AI Security starting in 25Fall!**
 
 # Research Interest
 
-+ Adversarial Samples against Data Poisoning
++ Data Poisoning Attacks against Adversarial Samples
 + AI Security
-+ Side-channel Analysis 
++ Side-channel Analysis
 
 # Miscellaneous
 
