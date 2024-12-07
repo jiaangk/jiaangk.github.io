@@ -17,7 +17,7 @@ I am also an intern student remotely advised by [Prof. Xiao Zhang](https://xiao-
 
 # Research Interest
 
-+ Data Poisoning Attacks against Adversarial Samples
++ Data Poisoning Attacks with Adversarial Samples
 + AI Security
 + Side-channel Analysis
 
